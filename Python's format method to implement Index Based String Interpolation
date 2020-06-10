@@ -1,0 +1,16 @@
+# name = 'BAkhti'
+# age = 25
+# product = 'Python eLearning course'
+
+# greeting = "Hi {0}, you are listed as {1} years old and you have purchased: {2} ...".format(name, age, product)
+
+# print(greeting)
+
+
+name = 'Anora'
+age = 20
+product = 'Instagram master class'
+
+greeting = f"Hi {name}, you are listed as {age} years old and you have purchased {product}"
+
+print(greeting)
